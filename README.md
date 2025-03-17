@@ -26,10 +26,11 @@ python honeypot.py --port 2222
 Ctrl + C
 
 #Killing the process 
-bash
-Copy
+
 #Windows
+
 netstat -ano | findstr :2222 
+
 taskkill /PID #processID /F
 
 ## Logs
