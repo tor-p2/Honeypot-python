@@ -10,7 +10,7 @@
 ## 🛠️ Installation
 bash
 Copy
-git clone https://github.com/yourusername/Honeypot-Python.git  
+git clone https://github.com/tor-p2/Honeypot-Python.git  
 cd Honeypot-Python  
 pip install -r requirements.txt  
 python honeypot.py
