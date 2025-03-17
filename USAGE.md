@@ -1,1 +1,0 @@
-python honeypot.py --port 2222
