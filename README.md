@@ -25,9 +25,7 @@ python honeypot.py --port 2222
 
 Ctrl + C
 
-#Killing the process 
-
-#Windows
+Killing the process Windows
 
 netstat -ano | findstr :2222 
 
